@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Website Profesional</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Nama Bisnis Anda</h1>
+      <nav>
+        <ul>
+          <li><a href="#beranda">Beranda</a></li>
+          <li><a href="#tentang">Tentang</a></li>
+          <li><a href="#layanan">Layanan</a></li>
+          <li><a href="#kontak">Kontak</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section id="beranda">
+    <div class="container">
+      <h2>Selamat Datang</h2>
+      <p>Website profesional untuk bisnis atau portofolio Anda.</p>
+    </div>
+  </section>
+
+  <section id="tentang">
+    <div class="container">
+      <h2>Tentang Kami</h2>
+      <p>Kami adalah tim profesional yang berfokus pada pengembangan digital dan solusi teknologi modern.</p>
+    </div>
+  </section>
+
+  <section id="layanan">
+    <div class="container">
+      <h2>Layanan Kami</h2>
+      <ul>
+        <li>Desain Website</li>
+        <li>Pengembangan Aplikasi</li>
+        <li>Konsultasi Digital</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="kontak">
+    <div class="container">
+      <h2>Kontak</h2>
+      <p>Email: info@namabisnis.com</p>
+      <p>Telepon: +62 812 3456 7890</p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Nama Bisnis Anda. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
